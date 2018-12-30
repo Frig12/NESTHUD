@@ -3054,6 +3054,33 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		CODEBold45
+		{
+			"1"
+			{
+				"name"		"Code-Bold"
+				"tall"		"45"
+				"antialias" "1"
+			}
+		}
+		CODEBold56
+		{
+			"1"
+			{
+				"name"		"Code-Bold"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
+		CODEBold64
+		{
+			"1"
+			{
+				"name"		"Code-Bold"
+				"tall"		"64"
+				"antialias" "1"
+			}
+		}
 	}
 	
 	// Thease are my fonts 
