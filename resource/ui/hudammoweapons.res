@@ -42,7 +42,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClip"
-		"font"			"CODEBold64"
+		"font"			"CODEBold56"
 		"fgcolor"		"255 255 255 255"
 		"xpos"			"-15"
 		"ypos"			"0"
@@ -60,7 +60,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClip"
-		"font"			"CODEBold64"
+		"font"			"CODEBold56"
 		"fgcolor"		"0 0 0 255"
 		"xpos"			"-14"
 		"ypos"			"1"
@@ -78,7 +78,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClipShadow"
-		"font"			"CODEBold64"
+		"font"			"CODEBold56"
 		"fgcolor"		"0 0 0 255"
 		"xpos"			"1"
 		"xpos_minmode"	"9"

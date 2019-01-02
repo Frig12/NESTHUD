@@ -5,8 +5,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerHealth"
-		"xpos"			"c-250"		[$WIN32]
-		"ypos"			"c20"	[$WIN32]
+		"xpos"			"c-300"		[$WIN32]
+		"ypos"			"c50"	[$WIN32]
 		"xpos"			"32"	[$X360]
 		"ypos"			"r144"	[$X360]
 		"zpos"			"2"
@@ -73,7 +73,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"CODEBold64"
+		"font"			"CODEBold56"
 		"fgcolor"		"255 255 255 255"
 	}
     "PlayerStatusHealthValueBG"
@@ -89,7 +89,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"CODEBold64"
+		"font"			"CODEBold56"
 		"fgcolor"		"0 0 0 255"
 	}									
 	"PlayerStatusBleedImage"

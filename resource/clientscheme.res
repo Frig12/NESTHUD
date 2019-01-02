@@ -3024,6 +3024,7 @@ Scheme
 			{
 				"name"		"Code-Bold"
 				"tall"		"16"
+				"weight"	"400"
 				"antialias" "1"
 			}
 		}
@@ -3033,6 +3034,7 @@ Scheme
 			{
 				"name"		"Code-Bold"
 				"tall"		"20"
+				"weight"	"400"
 				"antialias" "1"
 			}
 		}
@@ -3042,6 +3044,7 @@ Scheme
 			{
 				"name"		"Code-Bold"
 				"tall"		"28"
+				"weight"	"700"
 				"antialias" "1"
 			}
 		}
@@ -3051,6 +3054,7 @@ Scheme
 			{
 				"name"		"Code-Bold"
 				"tall"		"32"
+				"weight"	"400"
 				"antialias" "1"
 			}
 		}
@@ -3060,6 +3064,7 @@ Scheme
 			{
 				"name"		"Code-Bold"
 				"tall"		"45"
+				"weight"	"400"
 				"antialias" "1"
 			}
 		}
@@ -3069,6 +3074,7 @@ Scheme
 			{
 				"name"		"Code-Bold"
 				"tall"		"56"
+				"weight"	"700"
 				"antialias" "1"
 			}
 		}
@@ -3078,6 +3084,7 @@ Scheme
 			{
 				"name"		"Code-Bold"
 				"tall"		"64"
+				"weight"	"700"
 				"antialias" "1"
 			}
 		}
