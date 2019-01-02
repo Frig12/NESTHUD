@@ -5,8 +5,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerHealth"
-		"xpos"			"c-300"		[$WIN32]
-		"ypos"			"c60"	[$WIN32]
+		"xpos"			"c-250"		[$WIN32]
+		"ypos"			"c20"	[$WIN32]
 		"xpos"			"32"	[$X360]
 		"ypos"			"r144"	[$X360]
 		"zpos"			"2"
@@ -50,11 +50,11 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
-		"xpos"			"81"	[$WIN32]
-		"ypos"			"15"	[$WIN32]
+		"xpos"			"87"	[$WIN32]
+		"ypos"			"39"	[$WIN32]
 		"zpos"			"2"
-		"wide"			"111"	[$WIN32]
-		"tall"			"110"	[$WIN32]
+		"wide"			"77"	[$WIN32]
+		"tall"			"77"	[$WIN32]
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/health_over_bg"
@@ -64,11 +64,11 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"12"
-		"ypos"			"8"	[$WIN32]
+		"xpos"			"0"
+		"ypos"			"0"	[$WIN32]
 		"zpos"			"5"
 		"wide"			"250"
-		"tall"			"120"
+		"tall"			"150"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
@@ -80,11 +80,11 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValueBG"
-		"xpos"			"11"
-		"ypos"			"7"	[$WIN32]
+		"xpos"			"1"
+		"ypos"			"1"	[$WIN32]
 		"zpos"			"5"
 		"wide"			"250"
-		"tall"			"120"
+		"tall"			"150"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
